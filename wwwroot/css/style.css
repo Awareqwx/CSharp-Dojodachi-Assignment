@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+
+#dachi{
+    border: 3px outset black;
+    display: inline-block;
+    padding: 0 5px;
+    width: 250px;
+    height: 160px;
+    margin: 5px;
+}
+
+#message{
+    margin: 10px 0;
+}
